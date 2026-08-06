@@ -3,6 +3,16 @@ entries:
   blackbox-operator:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2026-08-06T08:19:39.208101021Z"
+    description: A Helm chart for Kubernetes
+    digest: ec258ef3f30dc41f9d93c03f50979b6b934039747e76fc43100dc9128b479c7f
+    name: blackbox-operator
+    type: application
+    urls:
+    - https://github.com/schmiddim/helm-charts/releases/download/blackbox-operator-0.2.5/blackbox-operator-0.2.5.tgz
+    version: 0.2.5
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2026-03-27T11:44:18.128525502Z"
     description: A Helm chart for Kubernetes
     digest: 1abde9d97845f48b35d9dbb7fa5e3de032b1c752d0d8e7ea4faea398190f336f
@@ -52,6 +62,16 @@ entries:
     - https://github.com/schmiddim/helm-charts/releases/download/blackbox-operator-0.1.1/blackbox-operator-0.1.1.tgz
     version: 0.1.1
   go-mem-thief:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-08-06T08:19:39.339230655Z"
+    description: A Helm chart for Kubernetes
+    digest: 614dfc6adc6aacd15e859b0418725465715a7133afa6bf0ceeb6b8a7e721cd2b
+    name: go-mem-thief
+    type: application
+    urls:
+    - https://github.com/schmiddim/helm-charts/releases/download/go-mem-thief-0.1.6/go-mem-thief-0.1.6.tgz
+    version: 0.1.6
   - apiVersion: v2
     appVersion: 1.16.0
     created: "2026-03-27T11:44:18.288676861Z"
@@ -105,6 +125,16 @@ entries:
   java-mem-thief:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2026-08-06T08:19:39.46541442Z"
+    description: A Helm chart for Kubernetes
+    digest: b27b74f42872edbc450e16da401d76bb34215eb8feb278c094499718ae4bfa13
+    name: java-mem-thief
+    type: application
+    urls:
+    - https://github.com/schmiddim/helm-charts/releases/download/java-mem-thief-0.1.4/java-mem-thief-0.1.4.tgz
+    version: 0.1.4
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2026-03-27T11:44:18.45759644Z"
     description: A Helm chart for Kubernetes
     digest: 1a0ea9987feb27e6e6edc694bf2f7a569775d866f0184c1026c734b6e550b016
@@ -144,6 +174,16 @@ entries:
     - https://github.com/schmiddim/helm-charts/releases/download/java-mem-thief-0.1.0/java-mem-thief-0.1.0.tgz
     version: 0.1.0
   kibana-alert-exporter:
+  - apiVersion: v2
+    appVersion: 1.17.2
+    created: "2026-08-06T08:19:39.580193095Z"
+    description: Helm Chart for the Kibana Alert Exporter
+    digest: 3a551635aaf088fc60ff228dca7ba3be2f2eb3d3b5519aa790ab9ff91f0b844a
+    name: kibana-alert-exporter
+    type: application
+    urls:
+    - https://github.com/schmiddim/helm-charts/releases/download/kibana-alert-exporter-0.3.2/kibana-alert-exporter-0.3.2.tgz
+    version: 0.3.2
   - apiVersion: v2
     appVersion: 1.17.2
     created: "2026-03-27T11:44:18.647939109Z"
@@ -277,6 +317,16 @@ entries:
   loggi-mc-logface:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2026-08-06T08:19:39.705041394Z"
+    description: A Helm chart for Kubernetes
+    digest: 840d214092e2f74535886fef9ce6b0e2dfe4c4e968604c05d05ef1b772935ca9
+    name: loggi-mc-logface
+    type: application
+    urls:
+    - https://github.com/schmiddim/helm-charts/releases/download/loggi-mc-logface-0.1.3/loggi-mc-logface-0.1.3.tgz
+    version: 0.1.3
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2026-03-27T11:44:18.831541511Z"
     description: A Helm chart for Kubernetes
     digest: de10fc77c118311a34a1965db5aef0e925995796251be62aa1dafa68249ee43c
@@ -308,6 +358,16 @@ entries:
   spacelift-pushgateway:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2026-08-06T08:19:39.822317693Z"
+    description: A Helm chart for Kubernetes
+    digest: f1889db75a9efca241b5edca7e696f54fa48f621f6a87324cc21b9e7f0dd56ee
+    name: spacelift-pushgateway
+    type: application
+    urls:
+    - https://github.com/schmiddim/helm-charts/releases/download/spacelift-pushgateway-0.1.3/spacelift-pushgateway-0.1.3.tgz
+    version: 0.1.3
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2026-03-27T11:44:19.006434465Z"
     description: A Helm chart for Kubernetes
     digest: 93a4687ecf06dcfecde20f7c2f5ff7fa66cec83a2e0032dcef8e631660c3e391
@@ -336,4 +396,4 @@ entries:
     urls:
     - https://github.com/schmiddim/helm-charts/releases/download/spacelift-pushgateway-0.1.0/spacelift-pushgateway-0.1.0.tgz
     version: 0.1.0
-generated: "2026-03-27T11:44:19.006589673Z"
+generated: "2026-08-06T08:19:39.822481765Z"
